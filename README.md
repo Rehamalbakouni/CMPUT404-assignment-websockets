@@ -59,3 +59,10 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Reham Albakouni
+
+==========================
+
+Refrences:
+
+https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples
